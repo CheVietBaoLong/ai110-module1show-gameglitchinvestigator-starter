@@ -56,7 +56,9 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 4. What did you learn about Streamlit and state?
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
-Streamlit "reruns" run the script from top-to-bottom on every user action, and Streamlit sends updated interface to browser. Session state is a place to store data across those runs.
+  ```
+  Streamlit "reruns" run the script from top-to-bottom on every user action, and Streamlit sends updated interface to browser. Session state is a place to store data across those runs.
+  ```
 ---
 
 ## 5. Looking ahead: your developer habits
